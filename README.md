@@ -1,8 +1,7 @@
-# Hi, I'm Javad 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Javad%20Kazemlo&fontAlign=50&fontSize=50"/>
 </p>
+# Hi, I'm Javad 👋
 
 Computer Engineering Student | C++ Developer | AI Enthusiast
 
