@@ -1,5 +1,9 @@
 # Hi, I'm Javad 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Javad%20Kazemlo&fontAlign=50&fontSize=50"/>
+</p>
+
 Computer Engineering Student | C++ Developer | AI Enthusiast
 
 ## 🛠️ Tech Stack
@@ -12,9 +16,9 @@ Computer Engineering Student | C++ Developer | AI Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javadykazemlo&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadykazemlo&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=javadykazemlo&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 ![](https://streak-stats.demolab.com?user=javadykazemlo&theme=tokyonight&hide_border=true)
